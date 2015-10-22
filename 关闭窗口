@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+	<title>输出</title>
+<body>	
+<input type="button" value="关闭窗口" onclick="window.close();"/>	
+	<script type="text/javascript"> 
+	<!—
+		//输出方法
+		document.write("您好，现在时间为："+new Date());
+	-->
+	</script>
+</body>
+</html>
