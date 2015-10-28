@@ -1,0 +1,7 @@
+
+var i = 0;
+do {
+  i + =2;
+  }
+  while i < 10;
+  alert (i);//do-while后测试循环语句
