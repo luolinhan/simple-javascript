@@ -1,0 +1,12 @@
+var s = "nicholas";
+var b = true;
+var i = 22;
+var v i;
+var n = null;
+var o = new object();
+alert (typeof s); //string
+alert (typeof b); //boolean
+alert (typeof i); //number
+alert (typeof v); //undefined
+alert (typeof n); //object
+alert (tyoeof o); //object
