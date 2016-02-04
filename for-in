@@ -10,4 +10,5 @@ for (x in mycars)
 {
 document.write(mycars[x] + "<br />")
 }
+
 </script>
